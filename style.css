@@ -10,11 +10,11 @@ body{
     
 }
 .calculator-container{ 
-    height: 550px;
     width: 400px;
     background: #484749;
     border-radius: 20px;
-    padding: 20px;
+    padding: 35px;
+
 }
 .display{
     height: 100px;
@@ -29,7 +29,8 @@ body{
     flex-wrap: wrap;
     gap: 30px;
     margin-top: 30px;
-    justify-content: center;
+    justify-content: space-between;
+
 }
 
 .button{
