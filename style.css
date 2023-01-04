@@ -45,14 +45,28 @@ body{
     font-family: 'Roboto';
 }
 
+
 .button-number{
     background: #838383;
+    
+}
+
+.button-number:hover{
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 .button-red{
-    background: #ff504d;
+    background-color: rgba(255, 80, 77, 1);
+}
+
+.button-red:hover{
+    background-color: rgba(255, 80, 77, 0.5);
 }
 
 .button-operator{
-    background: #00a5c3;
+    background-color: rgba(0, 165, 195, 1);
+}
+
+.button-operator:hover{
+    background-color: rgba(0, 165, 195, 0.5);
 }
