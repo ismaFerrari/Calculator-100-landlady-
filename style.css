@@ -31,7 +31,7 @@ body {
     background: #cbe7aa;
     border-radius: 20px;
     font-family: "Digital-7";
-    font-size: 4.5em;
+    font-size: 3.5em;
 }
 
 .buttons-container {
@@ -55,7 +55,7 @@ body {
 }
 
 .button-number {
-    background: rgba(131, 131, 131, 1);
+    background-color: rgba(131, 131, 131, 1);
 }
 
 .button-number:hover {
@@ -63,7 +63,7 @@ body {
 }
 
 .button-red {
-    background: rgba(255, 80, 77, 1);
+    background-color: rgba(255, 80, 77, 1);
 }
 
 .button-red:hover {
@@ -71,7 +71,7 @@ body {
 }
 
 .button-operator {
-    background: rgba(0, 165, 195, 1);
+    background-color: rgba(0, 165, 195, 1);
 }
 
 .button-operator:hover {
